@@ -1,0 +1,10 @@
+langchain-openai
+langchain-google-genai
+openai
+python-dotenv
+langchain-huggingface
+transformers
+tokenizers
+torch
+sentence-transformers
+scikit-learn
